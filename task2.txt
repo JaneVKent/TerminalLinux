@@ -1,0 +1,6 @@
+
+  132  touch script1.sh
+  133  vim script1.sh 
+  134  chmod +x script1.sh 
+  135  ./script1.sh 
+  142  history >>task2.txt
